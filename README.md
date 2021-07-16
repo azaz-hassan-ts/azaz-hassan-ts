@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Azaz Hassan Jafri
+- 👋 Hi, I’m Azaz Hassan
 - 👀 I’m interested in Artificial Intelligence and smart systems.
 - 🌱 I’m currently learning Python Django along with Django Rest Framework.
 - 💞️ I’m looking to collaborate on open source artificial intelligence models and data analysis.
